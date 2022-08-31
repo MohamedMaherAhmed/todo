@@ -29,7 +29,7 @@ The following is the Flutter Package I used during the development of this app:
      <td>How it looks like when all of the tasks are done and the sheet is pulled to its max </td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/57438243/187782534-cd6e0b9a-4a80-4cfd-b2f6-0e6c05cd5d74.png" width="250" height="400"></td>
+    <td><img src="https://user-images.githubusercontent.com/57438243/187782534-cd6e0b9a-4a80-4cfd-b2f6-0e6c05cd5d74.png" width="350" height="400"></td>
     <td><img src="https://user-images.githubusercontent.com/57438243/187782562-f801300c-d262-47e3-8c1a-2628856cb69a.png" width="250" height="400"></td>
     <td><img src="https://user-images.githubusercontent.com/57438243/187782714-bfe0d835-e03f-4e81-ac2e-8b004594d228.png" width="250" height="400"></td>
     <td><img src="https://user-images.githubusercontent.com/57438243/187782771-3e3a56b0-1468-4f95-8c98-4f1e73da7d74.png" width="250" height="400"></td>
